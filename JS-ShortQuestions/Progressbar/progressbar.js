@@ -8,3 +8,8 @@ const startProgressJS = (sec) => {
     if (percentCompleted > 100) clearInterval(progressInterval);
   }, (sec * 1000) / 100);
 };
+
+const startProgressCSS = (sec) => {
+  progressBar.style.transition = `${sec}s linear all`;
+  progressBar.style.width = "100%";
+};
