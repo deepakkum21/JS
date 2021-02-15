@@ -1,5 +1,16 @@
 ## Vanilla JavaScript Quick Reference / Cheatsheet
 
+#### Accessing Dom Elements
+
+#### Nodes
+
+![DOM Elemntt Traversal](https://javascript.info/article/dom-navigation/dom-links.png)
+
+---
+
+#### Elements
+
+![DOM Elements Traversal](https://javascript.info/article/dom-navigation/dom-links-elements.png
 
 | Working with DOM         | Working with JS         | Working With Functions |
 | -------------------------|-------------------------|----------------------- |
